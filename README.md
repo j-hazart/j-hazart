@@ -32,7 +32,7 @@
 <br>
 <br>
 
-##My Github Stats
+## My Github Stats
 
 <div id="githubStats">
 <img src="https://github-readme-stats.vercel.app/api?username=j-hazart" />
