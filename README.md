@@ -3,10 +3,10 @@
 **I am web developper**
 
 - I'm based to Reims, France
-- My portfolio (comming soon)
+- My portfolio [jessyhazart.fr](jessyhazart.fr)
 - I'm currently working on some personal projects
 - I'm looking for a job
-- Contact me at : [jessy.hazart@gmail.com](jessy.hazart@gmail.com)
+- Contact me at : [jessy.hazart@gmail.com](mailto:jessy.hazart@gmail.com)
 
 <br>
 
